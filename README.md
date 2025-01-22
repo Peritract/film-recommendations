@@ -10,4 +10,4 @@ This project focuses on making film recommendation models.
 
 ## Development
 
-All code is stored in notebooks. Begin with `film_cleaning.ipynb`.
+All code is stored in notebooks. Begin with `film_exploration.ipynb`.
